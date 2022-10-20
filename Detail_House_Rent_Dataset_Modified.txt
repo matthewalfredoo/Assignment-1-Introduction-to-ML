@@ -1,0 +1,4 @@
+Column 0	: BHK
+Column 1	: Bathroom
+Column 2	: Size
+Column 3	: Rent
